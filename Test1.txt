@@ -1,0 +1,1 @@
+Testing Git add, push, pull, commit using the terminal
